@@ -1,0 +1,45 @@
+body {
+  font-family: 'Outfit', sans-serif;
+  background-color: hsl(212, 45%, 89%);
+  margin: 0;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+p {
+
+  font-weight: 400;
+  font-size: 15px;
+  padding: 20px;
+  color: hsl(220, 15%, 55%);
+}
+/* Section */
+.qr-code {
+  text-align: center;
+  background-color: hsl(0, 0%, 100%);
+  position: relative;
+  padding: 16px;
+  border-radius: 20px;
+  margin: 5% auto;
+  width: 300px;
+}
+
+
+/* Section image */
+.qr-image {
+  position: relative;
+  width: 100%;
+  border-radius: 10px;
+}
+
+/* footer */
+
+.footer{
+  text-align: center;
+  font-size: 15px;
+  margin: 0 auto;
+}
+
+/* media */
